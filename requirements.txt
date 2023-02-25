@@ -4,4 +4,4 @@ commonmark==0.9.1
 Pygments==2.14.0
 rich==12.6.0
 shellingham==1.5.0.post1
-typer==0.7.0
+fastapi~=0.92.0
