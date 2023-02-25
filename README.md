@@ -10,5 +10,5 @@ A password manager to store your credentials at one place 🔐
 
 ## Branches
 - main -> for testing
-- staging -> preview
+- stage -> staging
 - prod -> production (don't touch it)
