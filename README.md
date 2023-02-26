@@ -1,4 +1,4 @@
-<a href="https://dogehouse.tv">
+<a href="">
     <p align="center">
         <img height=100 src="assets/logo-1-black.png"/>
     </p>
