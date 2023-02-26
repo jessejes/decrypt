@@ -1,3 +1,7 @@
-# Python enviroment
+# shinobi
 venv
 *.pyc
+
+# kunoichi
+node_modules/
+.expo/
