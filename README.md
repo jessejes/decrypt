@@ -1,5 +1,17 @@
-# DECRYPT
-A password manager to store your credentials at one place 🔐
+<a href="https://dogehouse.tv">
+    <p align="center">
+        <img height=100 src="assets/logo-1-black.png"/>
+    </p>
+</a>
+<p align="center">
+  <strong>🔐 A place to store your credentials at one place</strong>
+</p>
+
+<h3 align="center">
+  <a href="https://discord.gg/Y6UwTYWF">Community</a>
+  <span> · </span>
+  <a href="https://github.com/jessejes/decrypt-docs">Documentation</a>
+</h3>
 
 ---
 
