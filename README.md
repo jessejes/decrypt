@@ -4,7 +4,7 @@
     </p>
 </a>
 <p align="center">
-  <strong>🔐 A place to store your credentials at one place</strong>
+  <strong>A place to store your credentials at one place 🔐</strong>
 </p>
 
 <h3 align="center">
@@ -22,5 +22,4 @@
 
 ## Branches
 - main -> for testing
-- stage -> staging
 - prod -> production (don't touch it)
