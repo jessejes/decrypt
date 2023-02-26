@@ -19,6 +19,7 @@
 | Codebase            | Description         |
 |---------------------|---------------------|
 | [shinobi](shinobi)  | Python API          |
+| [kunoichi](kunoichi)| React Native App    |
 
 ## Branches
 - main -> for testing
