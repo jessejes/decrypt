@@ -4,7 +4,7 @@
     </p>
 </a>
 <p align="center">
-  <strong>A place to store your credentials at one place 🔐</strong>
+  <strong>A place to store your credentials 🔐</strong>
 </p>
 
 <h3 align="center">
