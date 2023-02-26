@@ -22,5 +22,4 @@
 
 ## Branches
 - main -> for testing
-- stage -> staging
 - prod -> production (don't touch it)
